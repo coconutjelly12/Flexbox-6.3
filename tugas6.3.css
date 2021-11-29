@@ -1,0 +1,43 @@
+body {
+    background-color: rosybrown;
+    padding: 30px;
+}
+
+.header {
+    background-color: bisque;
+    height: 100px;
+}
+
+.aside {
+    background-color: blanchedalmond;
+    width: 300px;
+    height: 550px;
+}
+
+article {
+    background-color: beige;
+    margin-left: 350px;
+    margin-top: -582px;
+    height: 550px;
+}
+
+.footer {
+    background-color: burlywood;
+    height: 100px;
+}
+
+img {
+    width: 180px;
+    margin: 10px;
+}
+
+.foto {
+    display: flex;
+    justify-content: center;
+    margin-top: 100px;
+}
+
+p {
+    text-align: center;
+    font-size: 30px;
+}
